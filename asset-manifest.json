@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/suyashgupta2411/SIH_JIIT/static/css/main.c1527680.css",
+    "main.js": "/suyashgupta2411/SIH_JIIT/static/js/main.d34ea28b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/suyashgupta2411/SIH_JIIT/static/js/787.28cb0dcd.chunk.js",
+    "static/media/2.png": "/suyashgupta2411/SIH_JIIT/static/media/2.1517203d3b8fb2867441.png",
+    "static/media/3.png": "/suyashgupta2411/SIH_JIIT/static/media/3.bd501124fee4c6bca740.png",
+    "static/media/1.png": "/suyashgupta2411/SIH_JIIT/static/media/1.6861fb92387f0b48b59f.png",
+    "index.html": "/suyashgupta2411/SIH_JIIT/index.html",
+    "main.c1527680.css.map": "/suyashgupta2411/SIH_JIIT/static/css/main.c1527680.css.map",
+    "main.d34ea28b.js.map": "/suyashgupta2411/SIH_JIIT/static/js/main.d34ea28b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/suyashgupta2411/SIH_JIIT/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1527680.css",
+    "static/js/main.d34ea28b.js"
+  ]
+}
