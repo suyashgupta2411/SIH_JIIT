@@ -1,0 +1,53 @@
+.first{
+
+    cursor:auto;
+    display: inline-flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 33.33%;
+    background-color: $primary;
+
+    justify-content: center;
+  
+    border-width: 10cm;
+    border-color: beige;
+}
+
+.second{
+
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 33.33%;
+    background-color: $primary;
+    justify-content: center;
+
+    border-width: 1cm;
+    border-color: beige;
+}
+
+.third{
+
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 33.33%;
+    background-color: $primary;
+  justify-content: center;
+
+  border-width: 1cm;
+  border-color: beige;
+}
+
+.img
+{
+     
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+
+}
